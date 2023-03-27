@@ -1,1 +1,1 @@
-# Simple app fpr changing text styles using jQuery
+# Simple app for changing text styles using jQuery
